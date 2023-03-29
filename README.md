@@ -1,3 +1,6 @@
+To start, enter in console; npm install -> npm run build -> npm start
+this will open a working version of the counter on localhost:3000
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
